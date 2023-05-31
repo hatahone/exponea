@@ -1,5 +1,4 @@
-<script>
-	!(function (e, n, t, i, o, r) {
+!(function (e, n, t, i, o, r) {
     	function a(e) {
         	if ("number" != typeof e) return e;
         	var n = new Date();
@@ -117,4 +116,3 @@
     	},
 	});
 	exponea.start();
-</script>
